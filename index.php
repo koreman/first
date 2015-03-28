@@ -8,6 +8,7 @@
 <body>
 
 <h1>First repository</h1>
+<h2>This is our first repository, not private yet!</h2>
 
 </body>
 </html>
